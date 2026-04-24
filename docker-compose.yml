@@ -1,5 +1,5 @@
 services:
   web:
-    image: ${DOCKER_USER}/2048-ANNISADWIWISESA
+    image: ${DOCKER_USER}/2048-annisadwiwisesa
     ports:
       - "9999:80"
